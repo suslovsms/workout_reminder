@@ -1,0 +1,7 @@
+package-lock.json
+node_modules/
+userData.json
+.DS_Store
+DB.json
+token.js
+nodemon.json
